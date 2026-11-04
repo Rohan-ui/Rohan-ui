@@ -24,7 +24,6 @@ I turn messy business workflows into clean, scalable systems.
 - 🔭 Currently leading end-to-end development of a **custom ERP for a ₹100+ Crore BOPP film manufacturer** at RND Technosoft
 - 🧠 Specialised in **Model Context Protocol (MCP)** — giving AI assistants natural-language access to live inventory, production, and CRM data
 - 🏗️ Full-stack across **Django / NestJS** backends and **React / Next.js / Astro** frontends
-- 🎓 BCA graduate (GPA **8.8**) · 🏆 Runner-up, SSR College Hackathon
 - ⚡ I automated a production planning workflow and bought the factory **~30% more machine utilisation**
 
 ---
