@@ -53,10 +53,6 @@ focus:
   - AI x ERP/CRM integration
   - DevOps, Docker & reliable deployments
 
-education: BCA, Veer Narmad South Gujarat University (GPA 8.8)
-achievement: Hackathon Runner-Up, SSR College
-languages: [English, Hindi, Gujarati]
-
 motto: "Code is never finished, it only gets better."
 ```
 
